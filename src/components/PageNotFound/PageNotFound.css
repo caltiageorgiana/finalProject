@@ -1,0 +1,27 @@
+
+.pageNotFound{
+    background-color: rgb(163, 177, 138);
+    color: white;
+    padding-top: 6.25rem;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+
+.error-image{
+    height: 15rem;
+    margin-bottom: 6.9rem;
+    margin-left: 34.3rem;
+    border-radius: 100%;
+}
+
+.h3-pnf{
+    margin-left: 15.6rem;
+}
+
+.h3-pnf2{
+    margin-left: 32.5rem;
+}
+
+.h1-pnf{
+    margin-left: 43rem;
+}

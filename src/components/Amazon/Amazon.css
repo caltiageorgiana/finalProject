@@ -1,0 +1,10 @@
+.amazon {
+    background-color: rgb(163, 177, 138);
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.title-article{
+    display: block;
+    padding-top: 4.5rem;
+    text-align: center;
+}

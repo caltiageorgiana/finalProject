@@ -1,0 +1,19 @@
+.pagination {
+  display: inline-block;
+  margin: 0.6rem;
+  cursor: pointer;
+  background-color:  rgba(12, 99, 56, 0.274);
+  border-radius: 0.6rem;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+
+.pagination a:hover {
+  background-color: rgba(15, 74, 15, 0.664);
+}

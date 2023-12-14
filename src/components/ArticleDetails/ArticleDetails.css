@@ -1,0 +1,43 @@
+.article-details{
+    background-color: rgb(163, 177, 138);
+    font-family: "Nunito Sans", sans-serif;
+    padding-bottom: 0.6rem;
+}
+
+.details-title{
+    display: block;
+    padding-top: 4.5rem;
+    text-align: center;
+    font-weight: 800;
+}
+
+.details-image{
+    max-width: 50%;
+    margin-left: 24rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border-radius: 3%;
+}
+
+.fav-button-article{
+    display: block;
+    margin-left: 24rem;
+    margin-bottom: 1rem;
+    background-color: rgb(3, 55, 14);
+    color: white;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    padding: 0.5rem 0.75rem;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.details-content{
+    color: black;
+    max-width: 50%;
+    margin-left: 24rem;
+}
+
+.added-to-favorite-message{
+    color:  rgb(3, 55, 14);
+    margin-left: 24rem;
+}

@@ -1,0 +1,54 @@
+.header {
+    height: 5rem;
+    background-color: rgb(52, 78, 65);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.img-logo {
+   height: 5.6rem;
+   width: auto;
+   vertical-align: middle;
+   margin-left: 7.9rem;
+}
+
+
+
+.navigation{
+    display: flex;
+    margin-top: 1.5rem;
+    font-family: "Nunito Sans", sans-serif;
+    transition: all 0.3s ease-in-out;    
+    
+}
+
+.link-n:hover{
+    background-color: rgb(3, 55, 14);
+    border-radius: 50%;
+}
+
+
+
+
+ul {
+    list-style-type: none;
+    margin-right: 5rem;
+    
+}
+
+li {
+    display: inline;
+    margin-right: 2rem;
+    font-size: 1.2rem;
+    
+}
+
+.fav-button{
+    background-color: rgb(3, 55, 14);
+    padding: 0.5rem;
+    border-radius: 5rem;
+}
+
+

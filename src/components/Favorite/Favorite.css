@@ -1,0 +1,53 @@
+.favorite{
+    background-color: rgb(163, 177, 138);
+    padding-bottom: 14.3rem;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.title-favorite{
+    display: block;
+    padding-top: 3.75rem;
+    text-align: center;
+}
+
+.no-art{
+    display: block;
+    font-size: 1.25rem;
+    text-align: center;
+    padding-top: 5.6rem;
+    padding-bottom: 7rem;
+}
+
+.remove-btn{
+  border: none;
+  padding: 5px 10px;
+  margin-left: 21rem;
+  font-size: 0.875rem;
+  cursor: pointer;
+  border-radius: 50%;
+
+}
+
+
+.li-card{
+    background-color: rgb(52, 78, 65);
+    border-radius: 1rem;
+    display: inline-block;
+    max-width: 25rem;
+    padding: 1rem;
+    margin-left: 4.375rem;
+    margin-bottom: 1.25rem;
+}
+
+
+.title-fav{
+    font-size: 0.9rem;
+    color: white;
+    font-weight: 800;
+}
+
+.img-fav{
+    max-width: 100%;
+    border-radius: 2rem;
+}
+

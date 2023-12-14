@@ -1,0 +1,10 @@
+.articles-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 2.5rem;
+    padding: 2rem;
+    gap: 1.5rem;
+
+}
+
+

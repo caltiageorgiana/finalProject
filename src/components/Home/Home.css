@@ -1,0 +1,147 @@
+
+.home1{
+    background-color:rgb(187, 198, 169);
+    font-family: "Nunito Sans", sans-serif;
+    color: white;
+}
+
+.home-h2{
+    margin-left: 28rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    color: rgb(32, 45, 10);
+}
+
+.home-p{
+    margin-left: 40rem;
+    padding-bottom: 1rem;
+    color: rgb(3, 55, 14);
+}
+
+
+.tesla-intro{
+    position: relative;
+}
+
+.tesla-img{
+    border-radius: 100%;
+    max-width: 60%;
+    margin-left: 9.375rem;
+   
+}
+
+.overlay{
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 9.375rem;
+    background: linear-gradient(
+        -90deg,
+        rgba(104, 176, 116, 0.145),
+        rgb(88, 129, 87)
+    );
+    width: 60%;
+    height: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.description-wrapper{
+    max-width: 50rem;
+    padding: 3rem;
+}
+
+.title{
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: white;
+    padding-left: 0rem;
+   
+}
+
+.description{
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.button{
+    display: block;
+    background-color: rgb(52, 78, 65);
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.25rem;
+    width: fit-content;
+    transition: all 0.2s ease-in-out;
+    color: white;
+}
+
+.button:hover{
+    background-color:  rgb(3, 55, 14);
+}
+
+
+
+
+
+
+.apple-img{
+    border-radius: 100%;
+    max-width: 59%;
+    margin-left: 31.25rem;
+    margin-top: 0.313rem;
+}
+
+.overlay2{
+    margin-top: 59.5rem;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 500px;
+    background: linear-gradient(
+        90deg,
+        rgba(104, 176, 116, 0.145),
+        rgb(88, 129, 87)
+    );
+    width: 60%;
+    height: 97%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+
+
+
+
+
+.amazon-img{
+    border-radius: 100%;
+    max-width: 60%;
+    margin-left: 9.375rem;
+    margin-top: 0.313rem;
+    margin-bottom: 3.125rem;
+}
+
+.overlay3{
+    margin-top: 101.7rem;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 9.375rem;
+    background: linear-gradient(
+        -90deg,
+        rgba(104, 176, 116, 0.145),
+        rgb(88, 129, 87)
+    );
+    width: 60%;
+    height: 88%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+
